@@ -8,9 +8,9 @@ Data pro válku na Ukrajině byla velký oříšek. Neexistují relevantní ově
 
 Grafickou podobu jsem záměrně zvolil tmavou, aby korespondovala s tématem. Úvodní obrázek jsem si nadefinoval sám a nechal vygenerovat AI. Barvy vizuálů odpovídají úvodnímu obrázku a vycházejí z vlajky Ruské federace.
 
-Výzvou bylo zobrazit na mapě Čečensko, které není státem, ale repubikou v rámci RF. Musel jsem na to přes souřadnice ve správném formátu. Zdrželo mě také správné nastavování průřezů, protože na monitoru ntb nebyly správně vidět ikony propojení s dalšími vizuály. 
+Výzvou bylo zobrazit na mapě Čečensko, které není státem, ale republikou v rámci RF. Musel jsem na to přes souřadnice ve správném formátu. Trvalo mi také správné nastavování průřezů, protože na monitoru ntb nebyly správně vidět ikony propojení s dalšími vizuály. 
 Hodně času jsem také strávil úpravou "vizuálu ve vizuálu" (kombinovaný čárový graf a vložená karta na poslední stránce), kdy mi editor střídavě zobrazoval a schovával menší vizuál. Pomohlo až uložení a promítnutí hotové prezentace a ta už vložený seskupený vizuál zobrazovala korekntě. 
 
-Myslím, že jsem splnil všechna požadovaná kritéria projektu až na jedno - víceúrovňovou hierarchii sloupcového geografického grafu na poslední stránce. Má zobrazovat data pro země, regiony a světadíly. Povedlo se mi sice vytvořit příslušné skupiny zemí ve zdrojové tabulce, ale nedokážu dát správná data na osu X, aby se mi to promítlo do frontendu. Budu konzultavat s lektorem, abych to mohl opravit. 
+Myslím, že jsem splnil všechna požadovaná kritéria projektu až na jedno - víceúrovňovou hierarchii sloupcového geografického grafu na poslední stránce. Má zobrazovat data pro země, regiony a světadíly. Povedlo se mi sice vytvořit příslušné skupiny zemí ve zdrojové tabulce, ale nedokážu dát správná data na osu X, aby se mi to promítlo do frontendu. Budu konzultovat s lektorem, abych to mohl opravit. 
 
-Na projektu jsem strávil caa 2,5 týdne, po zaměstnání, včetně zpětného shlédnutí záznamů všech relevantích lekcí. 
+Na projektu jsem strávil caa 2,5 týdne, vždy po zaměstnání, včetně zpětného shlédnutí záznamů všech relevantích lekcí. 
