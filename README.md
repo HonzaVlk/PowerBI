@@ -4,7 +4,7 @@ Můj první PowerBI projekt, na základě absolvovaného kurzu Datové Akademie 
 Data jsem si našel a zpracoval sám, téma jsem měl jasné od začátku. 
 
 Hlavní myšlenkou bylo ukázat, jak nynejší ruský režim přistupuje k obrovským ztrátám vlastních vojáků při agresi na Ukrajinu, ve srovnání s předchozími konflikty SSSR v Afghánistánu a dvou válkách v Čečensku.
-Data pro válku na Ukrajině byla velký oříšek. Neexistují relevantní ověřitelné zdroje skutečných ztrát, a tak jsem analyzoval více zdrojů, jejich hodnoty zprůměroval a volil spíše konzervativní, tj. nižší výsledky. AnI data pro Afghánistán a Čečensko nejsou stoprocentní, také zde neexistují definittivní čísla, ale spíše kvalifikované odhady.  
+Data pro válku na Ukrajině byla velký oříšek. Neexistují relevantní ověřitelné zdroje skutečných ztrát, a tak jsem analyzoval více zdrojů, jejich hodnoty zprůměroval a volil spíše konzervativní, tj. nižší výsledky. Ani data pro Afghánistán a Čečensko nejsou stoprocentní, také zde neexistují definittivní čísla, ale spíše kvalifikované odhady.  
 
 Grafickou podobu jsem záměrně zvolil tmavou, aby korespondovala s tématem. Úvodní obrázek jsem si nadefinoval sám a nechal vygenerovat AI. Barvy vizuálů odpovídají úvodnímu obrázku a vycházejí z vlajky Ruské federace.
 
